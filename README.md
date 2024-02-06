@@ -1,0 +1,4 @@
+- Developed sentiment analysis model using RandomForestClassifier for Flipkart reviews.
+- Applied ensemble learning for efficient binary sentiment classification.
+- Enables automated assessment of customer sentiments.
+- Aids businesses in proactive responses for enhanced customer satisfaction.
